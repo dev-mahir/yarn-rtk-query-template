@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is a post", 
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "photo" : "https://sc01.alicdn.com/kf/HTB1xrEDePoIL1JjSZFyq6zFBpXam/220126568/HTB1xrEDePoIL1JjSZFyq6zFBpXam.jpg_.webp"
+    }
+  ]
+}
